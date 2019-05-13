@@ -1,0 +1,7 @@
+gensim == 0.12.1
+lxml == 3.4.4
+matplotlib == 1.4.3
+nltk == 3.0.5
+numpy == 1.9.2
+pysubs2 == 0.2.1
+scipy == 0.16.0

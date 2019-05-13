@@ -1,0 +1,1 @@
+./launch_all.sh -s srt/ -n 300 -l english -r 0.6
